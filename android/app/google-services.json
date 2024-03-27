@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740208600714",
+    "project_id": "native-live-chat-5502d",
+    "storage_bucket": "native-live-chat-5502d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740208600714:android:7f51a3b4c7188ed5a1af73",
+        "android_client_info": {
+          "package_name": "com.firebasechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXH1kEJ37ZDvMYXZbM_gnNJsEvc2KUyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
